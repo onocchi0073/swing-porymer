@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/s3up": {
+      "name": "/s3up",
+      "lambdaFunction": "polymerappd826502d",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

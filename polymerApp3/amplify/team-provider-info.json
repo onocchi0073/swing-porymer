@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-polymerapp-dev-171519-authRole",
+      "UnauthRoleArn": "arn:aws:iam::365678590515:role/amplify-polymerapp-dev-171519-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::365678590515:role/amplify-polymerapp-dev-171519-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-polymerapp-dev-171519-deployment",
+      "UnauthRoleName": "amplify-polymerapp-dev-171519-unauthRole",
+      "StackName": "amplify-polymerapp-dev-171519",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:365678590515:stack/amplify-polymerapp-dev-171519/f7886e40-9eb7-11ec-bfdb-0ed0c53053b1",
+      "AmplifyAppId": "d2103ynn1yremt"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2103ynn1yremt",
+          "type": "manual"
+        }
+      },
+      "function": {
+        "polymerappd826502d": {
+          "deploymentBucketName": "amplify-polymerapp-dev-171519-deployment",
+          "s3Key": "amplify-builds/polymerappd826502d-794c526c6d7739416734-build.zip"
+        },
+        "polymerapp4dd1dbd8": {
+          "deploymentBucketName": "amplify-polymerapp-dev-171519-deployment",
+          "s3Key": "amplify-builds/polymerapp4dd1dbd8-524c457342317367725a-build.zip"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/graph": {
+      "name": "/graph",
+      "lambdaFunction": "polymerapp4dd1dbd8",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
